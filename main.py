@@ -205,5 +205,5 @@ def main():
     pygame.quit()
     quit()
 
-
+print("git is working fine")
 main()
